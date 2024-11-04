@@ -1,3 +1,6 @@
 [submodule "frameworkCDA"]
 	path = frameworkCDA
 	url = https://github.com/ECaffier/frameworkCDA
+[submodule "Bibliotheque"]
+	path = Bibliotheque
+	url = https://github.com/TheCreeep/Bibliotheque
