@@ -1,0 +1,3 @@
+[submodule "frameworkCDA"]
+	path = frameworkCDA
+	url = https://github.com/ECaffier/frameworkCDA
